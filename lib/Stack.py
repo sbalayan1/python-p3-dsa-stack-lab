@@ -19,7 +19,7 @@ class Stack:
 
     def peek(self):
         pass
-        return self.items[-1]
+        return self.items[0]
     
     def size(self):
         pass
